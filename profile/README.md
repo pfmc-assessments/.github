@@ -1,7 +1,7 @@
 # The nwfsc-assess GitHub Organization
 
-This organization stores repositories used by the stock assessment team at the NOAA Northwest
-Fisheries Science Center and various partners around the world.
+This organization stores repositories used by the stock assessment team at the [NOAA Northwest
+Fisheries Science Center](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center) and various partners around the world.
 
 Some of the commonly used repositories include
 
