@@ -13,4 +13,4 @@ repository | use
 [nwfscDiag](https://github.com/nwfsc-assess/nwfscDiag) | Diagnostic Package for West Coast Groundfish Assessments
 [nwfscAgeingError](https://github.com/nwfsc-assess/nwfscAgeingError) | Wrapper for tool to estimate ageing error given double-reads of hard structures (e.g., otoliths)
 
-Our [internal handbook for PFMC groundfish assessments](https://nwfsc-assess.github.io/nwfsc_assessment_handbook/) is another useful resource. 
+Our [internal handbook for PFMC groundfish assessments](https://pfmc-assessments.github.io/pfmc_assessment_handbook/) is another useful resource. 
