@@ -12,3 +12,5 @@ repository | use
 [sa4ss](https://github.com/nwfsc-assess/sa4ss) | Generate a stock assessment document from Stock Synthesis output
 [nwfscDiag](https://github.com/nwfsc-assess/nwfscDiag) | Diagnostic Package for West Coast Groundfish Assessments
 [nwfscAgeingError](https://github.com/nwfsc-assess/nwfscAgeingError) | Wrapper for tool to estimate ageing error given double-reads of hard structures (e.g., otoliths)
+
+Our [internal handbook for PFMC groundfish assessments](https://nwfsc-assess.github.io/nwfsc_assessment_handbook/) is another useful resource. 
