@@ -1,14 +1,16 @@
-# The nwfsc-assess GitHub Organization
+# The pfmc-assessments GitHub Organization
 
-Repositories used by the stock assessment team at the NOAA Northwest
-Fisheries Science Center and various partners around the world.
+Repositories used by those involved in stock assessments for U.S. West
+Coast stocks associated with the Pacific Fishery Management Council.
+Many of the contributors and users are at the NOAA Northwest and
+Southwest Fisheries Science Centers.
 
 Some of the commonly used repositories include
 
 repository | use
 -- | --
-[nwfscSurvey](https://github.com/nwfsc-assess/nwfscSurvey) | Analysis of the NWFSC trawl surveys
-[PacFIN.Utilities](https://github.com/nwfsc-assess/PacFIN.Utilities) | Manipulate data from the PacFIN database for assessments
-[sa4ss](https://github.com/nwfsc-assess/sa4ss) | Generate a stock assessment document from Stock Synthesis output
-[nwfscDiag](https://github.com/nwfsc-assess/nwfscDiag) | Diagnostic Package for West Coast Groundfish Assessments
-[nwfscAgeingError](https://github.com/nwfsc-assess/nwfscAgeingError) | Wrapper for tool to estimate ageing error given double-reads of hard structures (e.g., otoliths)
+[nwfscSurvey](https://github.com/pfmc-assessments/nwfscSurvey) | Analysis of the NWFSC trawl surveys
+[PacFIN.Utilities](https://github.com/pfmc-assessments/PacFIN.Utilities) | Manipulate data from the PacFIN database for assessments
+[sa4ss](https://github.com/pfmc-assessments/sa4ss) | Generate a stock assessment document from Stock Synthesis output
+[nwfscDiag](https://github.com/pfmc-assessments/nwfscDiag) | Diagnostic Package for West Coast Groundfish Assessments
+[nwfscAgeingError](https://github.com/pfmc-assessments/nwfscAgeingError) | Wrapper for tool to estimate ageing error given double-reads of hard structures (e.g., otoliths)
