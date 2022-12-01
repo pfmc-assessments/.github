@@ -11,8 +11,7 @@ repository | use
 -- | --
 [nwfscSurvey] | Analysis of the NWFSC trawl surveys
 [PacFIN.Utilities] | Manipulate data from the PacFIN database for assessments
-[nwfscAgeingError] | Estimate ageing error given double-reads of hard
-  structures (e.g., otoliths)
+[nwfscAgeingError] | Estimate ageing error given double-reads of hard structures (e.g., otoliths)
 [nwfscDiag] | Diagnostics for west coast groundfish assessments
 [sa4ss] | Generate a stock assessment document from Stock Synthesis output
 
