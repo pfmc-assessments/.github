@@ -7,9 +7,9 @@ Many of the contributors and users are at NOAA's [Northwest][NWFSC] and
 
 Some of the commonly used repositories within this organization include
 
-repository | use
--- | --
-[nwfscSurvey] | Analysis of the NWFSC trawl surveys
+repository | use | last commit
+-- | -- | --
+[nwfscSurvey] | Analysis of the NWFSC trawl surveys | [![release date](https://img.shields.io/github/last-commit/pfmc-assessments/nwfscSurvey)](https://github.com/pfmc-assessments/nwfscSurvey/commits/main)
 [PacFIN.Utilities] | Manipulate data from the PacFIN database for assessments
 [nwfscAgeingError] | Estimate ageing error given double-reads of hard structures (e.g., otoliths)
 [nwfscDiag] | Diagnostics for west coast groundfish assessments
