@@ -9,11 +9,11 @@ Some of the commonly used repositories within this organization include
 
 repository | use | last commit
 -- | -- | --
-[nwfscSurvey] | Analysis of the NWFSC trawl surveys | [![release date](https://img.shields.io/github/last-commit/pfmc-assessments/nwfscSurvey)](https://github.com/pfmc-assessments/nwfscSurvey/commits/main)
-[PacFIN.Utilities] | Manipulate data from the PacFIN database for assessments
-[nwfscAgeingError] | Estimate ageing error given double-reads of hard structures (e.g., otoliths)
-[nwfscDiag] | Diagnostics for west coast groundfish assessments
-[sa4ss] | Generate a stock assessment document from Stock Synthesis output
+[nwfscSurvey] | Analysis of the NWFSC trawl surveys | [![date](https://img.shields.io/github/last-commit/pfmc-assessments/nwfscSurvey)](https://github.com/pfmc-assessments/nwfscSurvey/commits/main)
+[PacFIN.Utilities] | Manipulate data from the PacFIN database for assessments | [![date](https://img.shields.io/github/last-commit/pfmc-assessments/PacFIN.Utilities)](https://github.com/pfmc-assessments/PacFIN.Utilities/commits/main)
+[nwfscAgeingError] | Estimate ageing error given double-reads of hard structures (e.g., otoliths) | [![date](https://img.shields.io/github/last-commit/pfmc-assessments/nwfscAgeingError)](https://github.com/pfmc-assessments/nwfscAgeingError/commits/main)
+[nwfscDiag] | Diagnostics for west coast groundfish assessments | [![date](https://img.shields.io/github/last-commit/pfmc-assessments/nwfscDiag)](https://github.com/pfmc-assessments/nwfscDiag/commits/main)
+[sa4ss] | Generate a stock assessment document from Stock Synthesis output | [![date](https://img.shields.io/github/last-commit/pfmc-assessments/sa4ss)](https://github.com/pfmc-assessments/sa4ss/commits/main)
 
 Our [internal handbook for PFMC groundfish assessments][handbook] is another
 useful resource.
