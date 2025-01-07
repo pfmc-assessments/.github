@@ -11,7 +11,7 @@ repository | use | last commit
 -- | -- | --
 [nwfscSurvey] | Analysis of the NWFSC trawl surveys | [![date](https://img.shields.io/github/last-commit/pfmc-assessments/nwfscSurvey)](https://github.com/pfmc-assessments/nwfscSurvey/commits/main)
 [PacFIN.Utilities] | Manipulate data from the PacFIN database for assessments | [![date](https://img.shields.io/github/last-commit/pfmc-assessments/PacFIN.Utilities)](https://github.com/pfmc-assessments/PacFIN.Utilities/commits/main)
-[nwfscAgeingError] | Estimate ageing error given double-reads of hard structures (e.g., otoliths) | [![date](https://img.shields.io/github/last-commit/pfmc-assessments/nwfscAgeingError)](https://github.com/pfmc-assessments/nwfscAgeingError/commits/main)
+[AgeingError] | Estimate ageing error given double-reads of hard structures (e.g., otoliths) | [![date](https://img.shields.io/github/last-commit/pfmc-assessments/AgeingError)](https://github.com/pfmc-assessments/AgeingError/commits/main)
 [nwfscDiag] | Diagnostics for west coast groundfish assessments | [![date](https://img.shields.io/github/last-commit/pfmc-assessments/nwfscDiag)](https://github.com/pfmc-assessments/nwfscDiag/commits/main)
 [sa4ss] | Generate a stock assessment document from Stock Synthesis output | [![date](https://img.shields.io/github/last-commit/pfmc-assessments/sa4ss)](https://github.com/pfmc-assessments/sa4ss/commits/main)
 
@@ -21,7 +21,7 @@ useful resource.
 [NWFSC]: https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center
 [SWFSC]: https://www.fisheries.noaa.gov/about/southwest-fisheries-science-center
 [handbook]: https://pfmc-assessments.github.io/pfmc_assessment_handbook
-[nwfscAgeingError]: https://github.com/pfmc-assessments/nwfscAgeingError
+[AgeingError]: https://github.com/pfmc-assessments/AgeingError
 [nwfscDiag]: https://github.com/pfmc-assessments/nwfscDiag
 [nwfscSurvey]: http://pfmc-assessments.github.io/nwfscSurvey/
 [PacFIN.Utilities]: https://pfmc-assessments.github.io/PacFIN.Utilities/
