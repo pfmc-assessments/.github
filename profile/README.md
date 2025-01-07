@@ -15,6 +15,8 @@ repository | use | last commit
 [nwfscDiag] | Diagnostics for west coast groundfish assessments | [![date](https://img.shields.io/github/last-commit/pfmc-assessments/nwfscDiag)](https://github.com/pfmc-assessments/nwfscDiag/commits/main)
 [sa4ss] | Generate a stock assessment document from Stock Synthesis output | [![date](https://img.shields.io/github/last-commit/pfmc-assessments/sa4ss)](https://github.com/pfmc-assessments/sa4ss/commits/main)
 
+There are also numerous repositories associated with U.S. west coast groundfish stock assessments that are hosted here, which are all associated with the topic "[stockassessment](https://github.com/search?q=org%3Apfmc-assessments+stockassessment&type=Topic)".
+
 Our [internal handbook for PFMC groundfish assessments][handbook] is another
 useful resource.
 
