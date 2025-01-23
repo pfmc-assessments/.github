@@ -26,5 +26,5 @@ useful resource.
 [AgeingError]: https://github.com/pfmc-assessments/AgeingError
 [nwfscDiag]: https://github.com/pfmc-assessments/nwfscDiag
 [nwfscSurvey]: http://pfmc-assessments.github.io/nwfscSurvey/
-[PacFIN.Utilities]: https://pfmc-assessments.github.io/PacFIN.Utilities/
+[pacfintools]: https://pfmc-assessments.github.io/pacfintools/
 [sa4ss]: https://github.com/pfmc-assessments/sa4ss
