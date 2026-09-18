@@ -1,6 +1,6 @@
 ---
 name: data sources checklist
-about:
+about: template of data sources for all assessment repositories
 title: 
 labels: 
 ---
