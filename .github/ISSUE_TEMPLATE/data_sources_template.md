@@ -1,3 +1,10 @@
+---
+name: data sources checklist
+about:
+title: 
+labels: 
+---
+
 # Data sources for U.S. West Coast Groundfish Stock Assessments
 
 Template has no guarantee of completeness. Please edit at https://github.com/pfmc-assessments/.github/.github/ISSUE_TEMPLATE/data_sources_template.md
